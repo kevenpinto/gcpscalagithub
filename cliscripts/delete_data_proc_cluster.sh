@@ -1,0 +1,1 @@
+echo "Y" | gcloud dataproc clusters delete scalatest --region=us-central1

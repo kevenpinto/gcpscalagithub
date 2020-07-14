@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/kpi01/code/gcpscala/project/"), "gcpscala-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/kpi01/code/gcpscala/project/"), "gcpscala-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
